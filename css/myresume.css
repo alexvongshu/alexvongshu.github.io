@@ -1,17 +1,10 @@
 body {
 	font-family: 'Noto Sans TC', sans-serif;
-	text-transform: none;
 }
+
 h1, h2, h3, h4, h5, h6 {
 	font-family: 'Noto Sans TC', sans-serif;
 	text-transform: none;
-	font-size: 6rem;
-        line-height: 7rem;
-}
-h1 .text-primary {
-	font-size: 3rem;
-	letter-spacing: -0.05rem;
-	line-height: 3rem;
 }
 
 .subheading {
@@ -21,4 +14,9 @@ h1 .text-primary {
 	letter-spacing: -0.05rem;
 }
 
+h1 .text-primary {
+	font-size: 3rem;
+	letter-spacing: -0.05rem;
+	line-height: 3rem;
+}
 
