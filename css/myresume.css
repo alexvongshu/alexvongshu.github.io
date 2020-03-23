@@ -8,8 +8,9 @@ h1, h2, h3, h4, h5, h6 ,p {
 	font-size: 6rem;
         line-height: 5.5rem;
 }
-subheading
-{
+.subheading {
 	font-family: 'Noto Sans TC', sans-serif;
+	font-size: 1.2rem;
 	text-transform: none;
+	letter-spacing: -0.05rem;
 }
