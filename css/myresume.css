@@ -14,7 +14,8 @@ h1, h2, h3, h4, h5, h6 {
 	line-height: 4rem;
 }
 .bg-primary {
-	
+	background-color: #007bff!important;
+	background-color: #007bff;
 	background-image: url("../img/otis-redding.png");
 }
 
