@@ -13,7 +13,10 @@ h1, h2, h3, h4, h5, h6 {
 	letter-spacing: -0.05rem;
 	line-height: 4rem;
 }
-
+.bg-primary {
+	
+	background-image: url("../img/otis-redding.png");
+}
 
 h1 .text-primary {
 	font-size: 3rem;
